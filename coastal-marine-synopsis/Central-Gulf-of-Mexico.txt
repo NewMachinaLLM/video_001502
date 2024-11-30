@@ -1,0 +1,36 @@
+Expires:202411300715;;887971
+FZNT24 KNHC 291906
+OFFNT4
+
+Offshore Waters Forecast for the Gulf of Mexico
+NWS National Hurricane Center Miami, FL
+206 PM EST Fri Nov 29 2024
+
+Offshore Waters Forecast for the Gulf of Mexico
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+
+GMZ046-300715-
+Central Gulf from 22N to 26N between 87W and 91W-
+206 PM EST Fri Nov 29 2024
+
+.TONIGHT...N to NE winds 10 to 15 kt S of 24N, and NE 20 to 25 kt
+N of 24N. Seas 6 to 9 ft in N to NE swell. 
+.SAT...NE to E winds 10 to 15 kt. Seas 6 to 8 ft in N to NE
+swell. 
+.SAT NIGHT...NE to E winds 10 to 15 kt. Seas 4 to 6 ft. 
+.SUN...NE to E winds 10 to 15 kt. Seas 3 to 5 ft.
+.SUN NIGHT...NE winds 15 kt. Seas 3 to 5 ft. 
+.MON...NE winds 15 to 20 kt. Seas 4 to 6 ft. 
+.MON NIGHT...NE to E winds 20 kt. Seas 6 to 8 ft.
+.TUE...NE to E winds 15 to 20 kt. Seas 6 to 8 ft in NE to E
+swell. 
+.TUE NIGHT...NE to E winds 15 to 20 kt. Seas 6 to 9 ft in NE to E
+swell. 
+.WED...E winds 15 to 20 kt. Seas 6 to 8 ft in NE to E swell. 
+.WED NIGHT...E winds 10 to 15 kt. Seas 5 to 7 ft in E swell. 
+
+$$
